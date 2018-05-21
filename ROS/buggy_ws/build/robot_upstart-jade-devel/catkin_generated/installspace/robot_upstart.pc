@@ -1,0 +1,8 @@
+prefix=/home/callum/buggy_ws/install
+
+Name: robot_upstart
+Description: Description of robot_upstart
+Version: 0.2.2
+Cflags: 
+Libs: -L/home/callum/buggy_ws/install/lib 
+Requires: 

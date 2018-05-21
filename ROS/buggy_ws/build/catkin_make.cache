@@ -1,0 +1,2 @@
+buggy_bot:robot_upstart-jade-devel:rosserial/rosserial:rosserial/rosserial_arduino:rosserial/rosserial_msgs:rosserial/rosserial_python
+-DCATKIN_DEVEL_PREFIX=/home/callum/buggy_ws/devel -DCMAKE_INSTALL_PREFIX=/home/callum/buggy_ws/install -G Unix Makefiles
